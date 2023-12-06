@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/terencejones/source2-350/repos/promises/JSPromises/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.JSPromises.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.JSPromises.props",
+      "PackagePath": "build\\JSPromises.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.JSPromises.props",
+      "PackagePath": "buildMultiTargeting\\JSPromises.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.JSPromises.props",
+      "PackagePath": "buildTransitive\\JSPromises.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

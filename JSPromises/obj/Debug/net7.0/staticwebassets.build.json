@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "cN4/XzzGUfRbWtQKMYBNHlhu9QQHlhITS9fys/bsLOk=",
+  "Source": "JSPromises",
+  "BasePath": "_content/JSPromises",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JSPromises/wwwroot",
+      "Source": "JSPromises",
+      "ContentRoot": "/Users/terencejones/source2-350/repos/promises/JSPromises/wwwroot/",
+      "BasePath": "_content/JSPromises",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/terencejones/source2-350/repos/promises/JSPromises/wwwroot/index.html",
+      "SourceId": "JSPromises",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/terencejones/source2-350/repos/promises/JSPromises/wwwroot/",
+      "BasePath": "_content/JSPromises",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
